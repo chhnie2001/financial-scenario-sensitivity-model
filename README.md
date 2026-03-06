@@ -1,3 +1,14 @@
+## Sample Outputs
+
+### Revenue Scenario Projection
+![Revenue Scenario](outputs/revenue_scenario.png)
+
+### Gross Profit Sensitivity Heatmap
+![Heatmap](outputs/gross_profit_heatmap.png)
+
+### Break-even Analysis
+![Break-even](outputs/break_even_analysis.png)
+
 # Financial Scenario & Sensitivity Modeling
 
 A Python-based financial modeling project using historical data from Applied Optoelectronics, Inc. (AAOI) to evaluate revenue, gross profit, and break-even performance under multiple operating scenarios.
@@ -117,13 +128,3 @@ valuation extensions
 
 automated data ingestion from financial APIs
 
-## Sample Visual Outputs
-
-### Revenue Scenario Projection
-See `outputs/revenue_scenario.png`
-
-### Gross Profit Sensitivity Heatmap
-See `outputs/gross_profit_heatmap.png`
-
-### Break-even Analysis
-See `outputs/break_even_analysis.png`
